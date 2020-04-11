@@ -9,7 +9,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "fguillot/json-rpc": "1.2.5"
+        "guthand-com/json-rpc": "1.2.6"
     },
     "autoload": {
         "psr-4": {
